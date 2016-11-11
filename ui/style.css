@@ -20,3 +20,13 @@ body {
     height: 200px;
 }
 
+.a  {
+            width="70%";
+            background-colour="red";
+            height=5px;
+            max-width:800px;
+            margin:0 auto;
+            
+            
+            
+        }
